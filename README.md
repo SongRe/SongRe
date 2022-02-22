@@ -10,6 +10,8 @@ My most used languages are:
 - JS/TS
 - C/C++
 
+It's a pleasure to meet you :)
+
 
 <!--
 - 🔭 I’m currently working on ...
