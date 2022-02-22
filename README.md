@@ -9,6 +9,7 @@ My most used languages are:
 - Java
 - JS/TS
 - C/C++
+- SQL
 
 It's a pleasure to meet you :)
 
