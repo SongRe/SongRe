@@ -5,6 +5,11 @@
 -->
 I'm an undergraduate Software Engineering student at the University of Waterloo.
 
+My most used languages are:
+- Java
+- JS/TS
+- C/C++
+
 
 <!--
 - 🔭 I’m currently working on ...
