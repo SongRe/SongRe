@@ -10,6 +10,7 @@ My most used languages are:
 - JS/TS
 - C/C++
 - SQL
+- Kotlin
 
 It's a pleasure to meet you :)
 
