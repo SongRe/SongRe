@@ -5,7 +5,7 @@
 -->
 I'm an undergraduate Software Engineering student at the University of Waterloo.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SongRe)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SongRe)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 - 🔭 I’m currently working on ...
