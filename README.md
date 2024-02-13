@@ -5,7 +5,14 @@
 -->
 I'm an undergraduate Software Engineering student at the University of Waterloo.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=comp4211&hide=javascript,HTML)
+My most used languages are:
+- Java
+- Typescript/Javascript
+- C/C#/C++
+- Kotlin
+
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=comp4211&hide=javascript,HTML) -->
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
