@@ -7,13 +7,9 @@ I'm an undergraduate Software Engineering student at the University of Waterloo.
 
 My most used languages are:
 - Java
-- JS/TS
-- C/C++
-- SQL
+- Typescript/Javascript
+- C/C#/C++
 - Kotlin
-
-It's a pleasure to meet you :)
-
 
 <!--
 - 🔭 I’m currently working on ...
